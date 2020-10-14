@@ -6,15 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://mihanizm56:89686576017mk@github.com/mihanizm56/fetch-api.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mihanizm56/fetch-api/issues"
-  },
-  "homepage": "https://github.com/mihanizm56/fetch-api#readme"
+  "license": "ISC"
 }
